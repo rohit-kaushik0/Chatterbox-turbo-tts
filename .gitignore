@@ -46,3 +46,12 @@ checkpoints/
 
 # Ignore generated sample .wav files
 **/*.wav
+
+# Embedded Python (use system Python or venv; do not push)
+python/
+
+# Cloned voices (created at runtime)
+voice_samples/
+
+# Windows VC++ redistributable (optional; users can download if needed)
+VC_redist.x64.exe
