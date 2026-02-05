@@ -2,6 +2,10 @@
 
 High-quality text-to-speech app with voice cloning, multilingual support, and voice conversion. Supports 23 languages.
 
+
+<img width="1900" height="875" alt="image" src="https://github.com/user-attachments/assets/dda5ee19-24e9-482b-8043-2e8cee8b4575" />
+
+
 ## Features
 
 - **Turbo TTS** – Fast synthesis with paralinguistic tags (e.g. `[laugh]`, `[sigh]`)
